@@ -1,0 +1,22 @@
+{
+  "name": "teachingjest",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo para enseñar a usar jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test/unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malguzt/teachingJest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malguzt/teachingJest/issues"
+  },
+  "homepage": "https://github.com/Malguzt/teachingJest#readme",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
